@@ -1,8 +1,8 @@
 package main
 
 import (
-	tf "github.com/tensorflow/tensorflow/tensorflow/go"
 	"fmt"
+	tf "github.com/wamuir/graft/tensorflow"
 	"log"
 )
 
